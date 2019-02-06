@@ -106,6 +106,10 @@ C:\0_projects\Vidly_new\Vidly_new\bin\Microsoft.CodeDom.Providers.DotNetCompiler
 C:\0_projects\Vidly_new\Vidly_new\obj\Debug\Vidly_new.csproj.CopyComplete
 C:\0_projects\Vidly_new\Vidly_new\obj\Debug\Vidly_new.dll
 C:\0_projects\Vidly_new\Vidly_new\obj\Debug\Vidly_new.pdb
-C:\0_projects\Vidly_new\Vidly_new\obj\Debug\Vidly_new.csprojAssemblyReference.cache
 C:\0_projects\Vidly_new\Vidly_new\obj\Debug\Vidly_new.Migrations.InitialModel.resources
 C:\0_projects\Vidly_new\Vidly_new\obj\Debug\Vidly_new.csproj.GenerateResource.cache
+C:\0_projects\Vidly_new\Vidly_new\obj\Debug\Vidly_new.csprojAssemblyReference.cache
+C:\0_projects\Vidly_new\Vidly_new\obj\Debug\Vidly_new.Migrations.AddIsSubsribedToCustomer.resources
+C:\0_projects\Vidly_new\Vidly_new\obj\Debug\Vidly_new.Migrations.AddMembershipType.resources
+C:\0_projects\Vidly_new\Vidly_new\obj\Debug\Vidly_new.Migrations.PopulateMembershipType.resources
+C:\0_projects\Vidly_new\Vidly_new\obj\Debug\Vidly_new.Migrations.ApplyDataAnnotationToCustomerName.resources
